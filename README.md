@@ -25,7 +25,7 @@ There are Various Classifier notebooks for different use-cases.</br>
 
 ## Contributing
 
-This are very beginner friendly, so if you've any suggestion or edits, or you wanna add your ones. Just do PR :)
+These are very beginner friendly notebooks, so if you've any suggestion or edits, or you wanna add your ones. Just do PR :)
 
 ## Acknowledgments
 
